@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "serviceType": "CONSULTATION",
+    "name": "Dr. Jordan Henderson",
+    "address": "Aster RV - Multispeciality Hospital, JP Nagar Bangaluru",
+    "hospitalImage": "assets/hospitalname.png",
+    "documents": [
+      "assets/document.png",
+      "assets/document.png"
+    ],
+    "feedback": "Every interaction with the hospital was great!",
+    "time": "05:35 PM",
+    "day": "Today"
+  },
+  {
+    "id": 2,
+    "serviceType": "LAB TEST",
+    "name": "CT Scan",
+    "recommendedBy": "Dr. Darcy Cooper",
+    "address": "Narayana Institute of cardiac sciences, Bangaluru",
+    "hospitalImage": "assets/hospital2.png",
+    "documents": [
+      "assets/document.png",
+      "assets/document.png"
+    ],
+    "feedback": "Every interaction with the hospital was great!",
+    "time": "10:28 PM",
+    "day": "Sep 29, 21"
+  },
+  {
+    "id": 3,
+    "serviceType": "CONSULTATION",
+    "name": "Dr. Jordan Henderson",
+    "address": "Aster RV - Multispeciality Hospital, JP Nagar Bangaluru",
+    "hospitalImage": "assets/hospitalname.png",
+    "documents": [
+      "assets/document.png",
+      "assets/document.png"
+    ],
+    "feedback": "Every interaction with the hospital was great!",
+    "time": "05:35 PM",
+    "day": "Today"
+  }
+]
